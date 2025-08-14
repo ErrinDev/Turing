@@ -1,7 +1,7 @@
 # Turing
 a server-client based voice assistant
 
-(thanks Gemini, will update later but this is so ai don't forget stuff)
+(thanks Gemini, will update later but this is so i don't forget stuff)
 
 Dynamic Wake Word Voice Assistant
 A self-hosted, Python-based voice assistant where client agents dynamically fetch multiple, function-specific wake words from a central server. This allows for adding new voice commands without redeploying client code.
